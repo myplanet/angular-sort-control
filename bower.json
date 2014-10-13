@@ -1,0 +1,26 @@
+{
+  "name": "angular-sort-control",
+  "version": "0.0.0",
+  "authors": [
+    "Ates Goral <ates.g@myplanetdigital.com>"
+  ],
+  "main": "angular-sort-control.js",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "data",
+    "sort",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
